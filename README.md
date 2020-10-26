@@ -4,7 +4,7 @@ A Windows console application that expects a comma separated values file (; as d
 
 ###Dependencies
 
-.Net Framework 4.5
+- .Net Framework 4.5
 
 ###Configuration
 
