@@ -17,7 +17,7 @@ namespace AnonymizeDataColumsFromCsv
     {
       // make a stringbuilder for the logfile
       StringBuilder sbLog = new StringBuilder();
-      sbLog.AppendLine($"Anonimize csv-files started at: { DateTime.Now}");
+      sbLog.AppendLine($"Anonymize csv-files started at: { DateTime.Now}");
       AnonymizeCsvFile(ConfigurationManager.AppSettings["Importfile1"], ConfigurationManager.AppSettings["Exportfile1"], ref sbLog);
       AnonymizeCsvFile(ConfigurationManager.AppSettings["Importfile2"], ConfigurationManager.AppSettings["Exportfile2"], ref sbLog);
       AnonymizeCsvFile(ConfigurationManager.AppSettings["Importfile3"], ConfigurationManager.AppSettings["Exportfile3"], ref sbLog);
