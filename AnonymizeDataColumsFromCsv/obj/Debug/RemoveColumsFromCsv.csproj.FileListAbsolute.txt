@@ -1,0 +1,10 @@
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\RemoveColumsFromCsv.exe.config
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\obj\Debug\RemoveColumsFromCsv.csprojResolveAssemblyReference.cache
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\RemoveColumsFromCsv.exe
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\RemoveColumsFromCsv.pdb
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\CsvHelper.dll
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\System.ValueTuple.dll
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\CsvHelper.xml
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\bin\Debug\System.ValueTuple.xml
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\obj\Debug\RemoveColumsFromCsv.exe
+C:\Git\RemoveColumnsFromCsv\RemoveColumsFromCsv\RemoveColumsFromCsv\obj\Debug\RemoveColumsFromCsv.pdb
